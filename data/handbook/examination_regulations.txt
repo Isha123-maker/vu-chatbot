@@ -1,0 +1,1052 @@
+Source: https://handbook.vu.edu.pk/HandBook_Pages/Examination%20Regulations%20-%202021.htm
+
+
+ 
+
+1.    TITLE
+This document shall be called the “Examination Regulations, 2021”
+
+2.    Short Title and Commencement
+Short Title means Examination Regulations. These Statutes shall come into force with immediate effect after the approval from Statutory Bodies.
+
+3.    Definitions
+In these Examination Regulations unless there is anything repugnant in the subject or context:
+
+ 
+
+a.       “Academic” means teaching staff of Virtual University of Pakistan.
+
+“Academic Calendar” means the period during which the students attend University.
+“Appendix” means a supplementary material which is not an essential part of the section, defining the procedure related to the said section which provides additional information about that area/section. The procedural part may be changed time to time for which no prior approval of any statutory body will be required. However, it may require approval from the Competent Authority.
+“ASRB” means Advanced Studies and Research Board of the University.
+“Campus” means a campus of the Virtual University of Pakistan.
+“CNIC” means the Computerized National Identity Card issued by the Government of Pakistan.
+“Conduct Team” means Examination Department’s officials involved in conduct of Examinations. 
+“Control Room” means a place designated/approved by the Controller of Examination for remote monitoring of examination.
+“Controller of Examinations” means Controller of Examinations, Virtual University of Pakistan.
+“Competent Authority” means the Rector of the University or an employee to whom the power is delegated by or under these rules;
+“Date sheet Interface” means the webpage provided by VULMS to create date sheet.
+“Direct Relative” means all direct relations including son, daughter, brother, sister, father, mother, wife, and husband.
+“Examination Hall” means a specific room in which an examination will be conducted. It can be Examination Center or part of its premises.
+“Examination Centre” means a place designated by the University for holding an examination. It can be Virtual University’s own campus or a PVC or a place designated for the purpose.
+“Electronic Mode” means usage of electronic media for conduct of examinations e.g., Computer System(s).
+“Exam Entrance Slip” means official University document containing examination schedule of the student.
+“Examination seat” means a seat provided for examination based on City, Examination Centre, date, and time.
+r.        “HOD/Head “means Head of a “Teaching/Academic Department” of the University.
+
+“Infrastructure Failure” means failure in any of the gadgets involved in conduct of examination which includes and not limited to Computers/Servers/Internet Connection/Routers/Switches/Power/UPS etc.
+“Missed Paper(s)” are those paper(s) which were scheduled by student through the Date sheet interface, but student failed to appear in paper(s) due to reasons other than infrastructure failure.
+“On – Site” means inspection through team in person.
+“Offline Mode” means usage of media which is not electronic e.g., conduct of examination on paper. 
+“Off- Site” means remote inspection through electronic means.
+“Online Mode” means conducting the examination using electronic media which is connected to VU’s server.
+“OPKST’ means Overseas Pakistani Student living abroad.
+“Overseas Student” means University student whose study status is Overseas.
+“Prescribed” means defined in the Regulations/ Statutes / by-Laws or approved by the University, in any form, as the case may be.
+“Private Virtual Campus (PVC)” means a campus established by the Private sector and duly approved by the University.
+“PST” means Pakistan Standard Time.
+“Question Bank” means a pool of Questions available for Examinations purpose.
+"Rector" means The Rector, Virtual University of Pakistan.
+"Registrar" means Registrar, Virtual University of Pakistan.
+gg.     “Student” means an enrolled student at Virtual University of Pakistan either local or overseas.
+
+“Superintendent” means a person who acts as the Supervisor of an examination center.
+“Un-Planned Paper(s)” are paper(s) which were not included in date sheet by student.
+“Unfair Means Committee (UMC)” means a committee notified by the Rector, shall deal with the alleged unfair means / disciplinary cases reported by the Controller of Examinations in connection with the conduct of Examinations.
+"University" OR “VU” means the Virtual University of Pakistan.
+“VULMS” means Virtual University Learning Management System.
+mm. “Written Examination” means examination in which students use paper as the main medium to carry out examination related activities and no electronic form is involved.
+
+The terms which are explicitly defined in these ‘Examination Regulations, 2021’ shall bear an interpretation that may be determined by the “Competent Authority” of the University. All other terms and expressions shall have the same meaning as assigned to them under the Virtual University of Pakistan Ordinance 2002.
+
+4.    Conduct of Examinations
+As per Virtual University of Pakistan Ordinance 2002 section (14) sub clause (2) reproduced as under:
+
+ 
+
+“The   Controller   of   Examinations   shall   be   responsible for all matters connected with the conduct of examinations and perform such other duties as may be prescribed.”
+
+ 
+
+The following regulations will govern the conduct of examination as per past practices of Virtual University of Pakistan/Controller of Examinations including but not limited to, for the conducive, fair, and transparent conduct of all kind of examinations.
+
+4.1.          General Regulations
+                                      i.            There shall be two Examinations for each course during each semester. These    Examinations shall be termed as Mid and End Semester-Examination.
+
+                                    ii.            The Mid and End Semester Examinations shall be scheduled according to the dates prescribed in the Academic Calendar of each semester.
+
+                                  iii.            The Lab Component examination shall be conducted separately.
+
+                                  iv.            The prescribed passing criteria of a course/subject as approved by the concerned body in “Academic Regulations, Virtual University” shall be followed for all students.
+
+                                    v.            The   Controller   of   Examinations has the following powers and functions (refer to VU ordinance):
+
+a)      Announce the schedule of examinations according to the Academic Calendar.
+
+b)      Determine the number of Examination sessions to be conducted on each date and at each examination center.
+
+c)      Suspend, shift, or close any Examination center during the period of Examination if circumstances so warrant.
+
+d)      Waive any or all of the prescribed conditions for an Examination center, for reasons to be recorded.
+
+e)      Appoint Superintendents and Assistant Superintendents out of the selected pool of Superintendents and Assistant Superintendents for conduct of Examinations or rescind their appointments.
+
+f)       Appoint Supervisors/Invigilators for monitoring Overseas Examinations.
+
+g)      Appoint monitoring staff for designated control rooms.
+
+h)      Inspect or designate inspection teams to inspect any Examination Center at any time during Examinations.
+
+i)       Responsible for all matters connected with the conduct of examinations and all other tests conducted by the University i.e. Admission Entrance Test, Recruitment Test and any Third Party Test.
+
+ 
+
+                                  vi.            All Examinations of the University shall be conducted in Electronic Mode. However, if circumstances so warrant, Examinations may be conducted in offline mode after due approval of the Statutory Bodies.
+
+                                vii.            The medium of Examinations shall be English unless as prescribed in the Academic/Study program.
+
+                              viii.            The time duration of any Examination shall be announced by the Controller of Examinations at least 30 days before the commencement of Examination.
+
+                                  ix.            The Examination of each course shall be conducted according to the prescribed paper criteria defined by the concerned Head of Department (HOD)/In-charge.   
+
+                                    x.            Mid/End Semester-Examination or any other Test scheduled by the University shall not be conducted without the appointment of a Superintendent.
+
+                                  xi.            Students appearing from countries other than Pakistan will be considered as Overseas Students referred as OPKST/Overseas Student later in this document.    
+
+4.2.          Examination Center
+                                      i.            All Examinations within Pakistan shall be conducted at the designated Examination Centers out of the approved list of Examination Center(s).
+
+                                    ii.            The University shall conduct examinations of Overseas students on an individual basis. However, the University may, at its discretion, conduct overseas examinations at approved Examination Center(s).
+
+                                  iii.            The Controller of Examinations may designate an Examination Center at his/her discretion, as and when required.
+
+                                  iv.            The Controller of Examinations may cancel any Examination Center, if he/she deems appropriate for reasons to be recorded in-writing.
+
+                                    v.            The Examination Center(s) shall fulfill all requirements as prescribed by the University.
+
+                                  vi.            A Private Virtual Campus (PVC) that fails to conduct examination after being designated as an Examination Center will face legal action under the VU rules & regulations and would also be liable for exemplary/punitive damages.
+
+4.3.          Date Sheet of Examinations
+                                            i.            The commencement dates of Mid and End Semester Examination shall be defined in Academic Calendar of each semester.
+
+                                          ii.            The Date Sheet interface given in VULMS shall be opened 25-30 days for a specific time period before the start of Examinations.
+
+                                        iii.            A student shall make his/her own Date Sheet for every Examination through Date sheet interface, on a first come first served basis. However, University reserves the right to create the Date sheet for any or all students as deemed necessary.
+
+                                        iv.            A student shall make his/her own date sheet within the stipulated time.
+
+                                          v.            After passing the stipulated time for the date sheet, a late fee shall be applicable as prescribed by the University.
+
+                                        vi.            A student shall not be allowed to appear in the Examinations without his/her Date Sheet.
+
+                                      vii.            Date Sheet for written and practical examinations thereafter be notified by the Controller of Examinations.
+
+4.4.          Examinations within Pakistan
+                                      i.            Exam Entrance Slip and original Photo ID* is compulsory to enter the Examination Hall.
+
+                                    ii.            Only those students shall be allowed to enter the Examination Hall whose paper is scheduled for that specific session.
+
+                                  iii.            A student shall be searched physically for any exam aide material before entry in the Examination Hall. 
+
+                                  iv.            A student shall strictly follow the seating plan/arrangements.
+
+                                    v.            A student shall handover his/her belongings** at the designated collection counter before entry into the Examination Hall.      
+
+                                  vi.            If any of the mentioned belongings are found later during the paper, it will be confiscated, and the paper will immediately be cancelled under UMC regulations.
+
+                                vii.            No communication is allowed between the student(s) in the Examination Hall during the exams. If any student(s) is found in such an activity, it may lead to an immediate cancellation of the paper.
+
+                              viii.            In case of query, student should raise hand and wait for the Superintendent.
+
+                                  ix.            The student is strictly not allowed to write on Exam Entrance Slip. If any student is found writing anything on the Exam Entrance Slip, it will be considered as use of Unfair Means.
+
+                                    x.            The student shall mark attendance on “Attendance Sheet” during the Examinations.
+
+                                  xi.            The student shall not leave his/her seat during the Examinations without getting permission from the Superintendent.
+
+                                xii.            Instructions given on “Exam Entrance Slip” are meant to be followed by all students in true letter and spirit.    
+
+                              xiii.            A student must leave the Examination Center immediately after finishing his/her paper.
+
+---------------------------------------------------------------------------------------------------------------------
+
+* VU ID Card / CNIC / NICOP / Juvenile Card issued by NADRA / Passport / Domicile / Driving License / Matric or Intermediate Certificate carrying photograph.
+
+** Mobile phones/electronic devices/bags/ papers/books/notes or any possession which could be helpful in any form in the Examinations.      
+
+
+ 
+
+4.4.1.                 Appointment of Amanuensis/Typist
+Amanuenses/Typist shall be allowed to a student on his/her written request, in case of physically handicapped/Visual impairment/permanent or temporary disability which prevents him/her from typing.
+
+                                      i.            The student shall request, upon submission of disability certificate, to the Controller of Examinations for due approval to engage an amanuensis/typist in Examinations at least two weeks before the start of Examinations.
+
+                                    ii.            The student him/herself shall be responsible for arrangement of the amanuensis/typist.
+
+                                  iii.            The amanuensis/typist shall be of a lower grade in education/qualification than the student concerned. No student can utilize the services of same amanuensis/typist and for more than two consecutive semesters. 
+
+                                  iv.            The amanuensis/typist shall not be associated with the University in any way.
+
+                                    v.            No remuneration by the University shall be paid to the amanuensis/typist.
+
+4.5.               Cancellation of Examinations
+ 
+
+During the conduct of Examinations at any stage, the Controller of Examinations may cancel the examination(s) in part or full, due to:
+
+                                      i.            Violation of any Examination Regulation
+
+                                    ii.            Corrupted/Lost data
+
+                                  iii.            Infrastructure failure
+
+                                  iv.            Any situation/disturbance arising at the Examination Centre(s), which affects the smooth conduct of Examination 
+
+In any of the above case(s), Controller of Examinations will notify the cancellation of examination(s) and announce the new schedule for such examination(s).
+
+4.6.          Examination Center
+ 
+
+                                      i.            The Examination Centre must comply with the prescribed/following requirements of the University:
+
+                                    ii.            Make proper arrangements for safe custody and return of student’s belongings under CCTV coverage.
+
+                                  iii.            Any type of wired or wireless network connectivity, other than the specified examination network, strictly prohibited inside the Examination Hall(s).
+
+                                  iv.            No Examination will be conducted in the absence of designated Superintendent.
+
+                                    v.            Nobody (even campus Management) shall not be authorized/allowed to enter into the examination Hall during the conduct of Examination without the permission of the Exam Superintendent.
+
+                                  vi.            No person other than the authorized VU personnel shall be allowed to enter the Examination Hall.
+
+                                vii.            Ensure that no employee/owner/Direct Relative(s) of the ‘Exam Center Management’ is appearing in the same Examination center. In case of any violation, the Controller of Examinations may take strict disciplinary action(s) or forward the case to Committee on Private Virtual Campuses (CPVC) for further action.
+
+4.7.          Inspection of Examination Center(s)
+                                      i.            The Controller of Examinations shall designate inspection teams to inspect Examination Center(s), however Rector, Registrar, Dean, Director ICT can inspect any Examination Center anytime.
+
+                                    ii.            The inspection team shall only inspect the assigned Center(s) within a specified schedule and submit inspection report accordingly.
+
+                                  iii.            TA/DA will be admissible as per University’s Examinations rules from the Budget of Examination department.
+
+4.8     Examinations for Overseas Students (OPKST)
+                                      i.            The Examinations for all overseas student(s) shall be conducted according to PST.
+
+                                    ii.            The student(s) shall be responsible for providing the Examination Environment as prescribed by the University. 
+
+                                  iii.            Each exam session shall be monitored continuously. Unmonitored session/paper shall be cancelled and considered as ‘Null and Void’.  
+
+                                  iv.            Female student(s) shall be invigilated by female invigilator(s) only.
+
+4.9.    Rescheduling of Unplanned/Missed Paper(s)
+                                      i.            A student shall request for rescheduling of Unplanned/Missed or Unscheduled paper(s) in Date Sheet within the announced respective exam time period.
+
+                                    ii.            The opportunity to reschedule the specific paper(s) shall only be provided once.
+
+                                  iii.            The rescheduled Paper(s) shall be conducted upon payment of prescribed fee.
+
+                                  iv.            Rescheduling fee shall be non-refundable in any case irrespective of the appearance of a student in rescheduled paper(s).
+
+                                    v.            All rescheduling requests shall be subject to the approval of the Controller of Examinations.
+
+                                  vi.            Attempted/Blocked paper(s) shall not be rescheduled.
+
+                                vii.            The schedule given by the Controller of Examinations about paper re-scheduling shall be final.
+
+                              viii.            In case of death of Direct Relative, missed paper(s) shall be rescheduled ‘Free of Cost’ subject to the submission of ‘Death Certificate’ by the student within seven days.
+
+4.10.      Appointment of Superintendent/Assistant Superintendent
+ 
+
+                                      i.            The Controller of Examinations shall appoint Superintendents/Assistant Superintendents for every examination center out of the selected pool of Superintendents/Assistant Superintendents as prescribed in Appendix ‘7 – A’.
+
+                                    ii.            In case of non-availability of Superintendents/Assistant Superintendents from selected pool, the Controller of Examinations may appoint a suitable candidate as deemed appropriate.
+
+                                  iii.            Applicant shall apply for Superintendent/Assistant Superintendent duty through Superintendent Registration Interface.
+
+                                  iv.            No person shall claim to be a member of Supervisory Staff as a matter of right and approach the Controller of Examinations for this purpose. 
+
+                                    v.            For every Examination Center there shall be at least two appointments i.e., one Superintendent & one Assistant Superintendent preferably of opposite gender.
+
+                                  vi.            The decision of the Controller of Examinations about the appointment shall be final.
+
+                                vii.            The Controller of Examinations may rescind any appointment without assigning any reason.
+
+                              viii.            The appointed Superintendent is bound to follow the code of conduct prescribed by the University.
+
+4.10.1.                       Eligibility Criteria for Superintendent
+                                      i.            Shall have minimum sixteen (16) years qualification in fields of Computer Science/ Information Technology/ Electrical Engineering/ Chartered Engineer’s (CE) Certification /Business (IT) or related disciplines. In case of non-availability, qualification for candidates from remote areas may be relaxed on due approval from the Controller of Examinations.
+
+                                    ii.            Shall have Minimum 02 to 03-years job experience in administrative role and have active job in Government/Public/well reputed private organization. Candidates from Government/public sector shall be given preference.
+
+                                  iii.            Faculty members of Virtual University or other technical staff shall have to apply for these positions on open competition after getting permission from their HoDs.
+
+                                  iv.            The Controller of Examinations may also appoint a nominated faculty member/ technical staff of the University for the purpose in emergency. The TA/DA/remuneration will be paid with same rate as external superintendent from the Budget of Examination department.
+
+                                  iv.            Minimum age limit is 25 years.
+
+ 
+
+4.10.2.                       Eligibility Criteria for Assistant Superintendent
+
+                                      i.            Shall have minimum twelve (12) years qualification with some certification in IT. In case of non-availability, qualification for candidates from remote areas may be relaxed only upon due approval from the Controller of Examinations.
+
+                                    ii.            Must have Minimum 2-3 years job experience. Candidates from public sector shall be given preference.
+
+                                  iii.            Minimum age is 25 years.
+
+4.10.3.                       Appointment of Additional Assistant Superintendent
+                                      i.            The Superintendent may request for Additional Assistant(s) Superintendent(s). Such request may be entertained after obtaining due approval from the Controller of Examinations. Additional Assistant Superintendent(s) shall be engaged as per the following:
+
+a)      For every Fifty (50) students per session.
+
+b)      In case computer lab(s) are established in multiple rooms/ sections, the Superintendent shall supervise the largest room /section and shall engage Assistant Superintendent(s) for the remaining rooms/sections.
+
+                                    ii.            The Assistant Superintendent(s) shall be appointed subject to eligibility criteria as prescribed in section (4.10.2).
+
+                                  iii.            The Assistant Superintendent(s) shall not be a direct Relative(s) of Superintendent.
+
+                                  iv.            The Assistant Superintendent(s) shall not be a direct Relative of Center staff i.e. (Campus Manager, Network Staff and Admin/other Staff etc.)
+
+                                    v.            In case of emergency, owing to the refusal or inability of a Superintendent to act, or for other reasons, when there is no time for the appointment of an alternate Superintendent, the Assistant Superintendent shall take over as the “Superintendent” and immediately inform to seek approval from the Controller of Examinations.
+
+4.11.      Responsibilities of Superintendent
+ 
+
+                                      i.            Superintendent appointed for the purpose shall ensure the execution of Examination Regulations in true letter and spirit as prescribed in section (4.4)
+
+                                    ii.            Superintendent shall register Unfair Means/Violation of Examination Regulations case(s) according to the regulations prescribed in section (4.14).
+
+                                  iii.            Superintendent shall submit daily conduct report to the Controller of Examinations as per the format prescribed in Appendix- ‘7 - B’
+
+4.12.      Superintendent Remuneration
+ 
+
+                                i.            The Superintendent/Assistant Superintendent(s) shall submit Remuneration Performa(s) after fulfilling all necessary requirements to the Controller of Examinations immediately after concluding the examinations.
+
+                              ii.            The Remuneration Performa(s) received after thirty (30) days shall not be processed and Remuneration shall be withheld.
+
+                            iii.            Each Remuneration Performa(s) shall be verified based on the attendance of Superintendent/Assistant Superintendent(s).
+
+                            iv.            Remuneration as prescribed in Appendix- ‘7 - C’  shall be disbursed to Superintendent/ Assistant Superintendent(s).
+
+                              v.            The VU staff/Faculty, if appointed, will be paid with same rate as external Superintendent.
+
+4.13.      Misconduct of the Superintendent/Assistant Superintendent/Invigilation
+          Staff
+
+ 
+
+                                i.            If any Superintendent/Assistant Superintendent/Invigilation Staff is involved in any violation of Examination Regulations/Misconduct, and is found guilty after due investigation, shall be liable for the following disciplinary action(s) according to the nature and intensity of violation/misconduct.
+
+ 
+
+a)         Immediate cancellation of Examination duty.
+
+b)         Debarred/blacklisted permanently for any further Examination Duties.
+
+c)         Withheld Remuneration of already accomplished Examination Duties.
+
+d)         A letter will be sent to his/her parent organization to report the incident and recommend ineligibility of any official duty.
+
+e)         University may, in addition initiate legal proceedings against the offender under its rules and regulations.
+
+f)          FIR in the police station shall be registered or
+
+g)         Publish the blacklist status in Newspaper/social media.
+
+Following Committee will evaluate all cases of Miss-conduct by Superintendent/Assistant Superintendent/Invigilation Staff. The Rector can change the composition of this committee in special circumstances.
+
+a)      Dean (Convener)
+
+b)      Director ICT (Member)
+
+c)      Director Finance (Member)
+
+d)      Deputy Registrar (Member)
+
+e)      Assistant Controller (Secretary)
+
+4.14.      Unfair Means/Misbehavior/Violation of Examination Regulations Cases
+            The following Regulations shall be applicable on all enrolled students at the University.
+
+4.14.1.  Unfair Means Regulations
+The following behavior or actions shall be liable to Unfair Means Regulations and/or immediate cancellation of a student’s paper:
+
+4.14.1.1.                    For Student(s) appearing in Designated Examination Center(s)
+Any student who:
+
+                                                                    i.            Commits Impersonation OR helps others to impersonate.
+
+                                                                  ii.            Submits forged OR fake document(s) in connection with the examinations.
+
+                                                                iii.            Possesses any kind of material/ mobile phone/electronic device/smart device(s), which may be helpful as an unfair means to him/her in the Examinations.
+
+                                                                iv.            Copies from any paper/book/notes/electronic device OR any other source.
+
+                                                                  v.            Assists other student(s) by providing/sharing of helping material of any type through any means.
+
+                                                                vi.            Takes help during paper from any one in any form.
+
+                                                              vii.            Uses forbidden software / item(s).
+
+                                                            viii.            Copies /Transmits / Publicizes the examination question paper(s).
+
+                                                                ix.            Mutilates the Answer Book (in case paper was conducted in Offline Mode).
+
+                                                                  x.            Does anything, which he/she should not do morally or legally in connection with the examinations, and which may be helpful as an unfair means to him/herself in the examinations.
+
+ 
+
+4.14.1.2.                    For Candidates(s) appearing as an Overseas Student
+Any student who:
+
+                                                                    i.            Uses an earphone or prohibited communication channel, device or means of any type.
+
+                                                                  ii.            Uses remote access / hidden / suspicious software.
+
+                                                                iii.            Intentionally disrupts video or audio hardware.
+
+Unfair Means Regulations as prescribed in Section (4.14.1.1) above shall also be                applicable on student(s) appearing as an overseas student.
+
+ 
+
+4.14.2.  Misbehavior Regulations
+The following behavior or actions shall be liable to Unfair Means Regulations and/or may lead to the cancellation of student’s paper:
+
+4.14.2.1.                    For Student(s) appearing in Designated Examinations Center(s)
+Any student who:
+
+                                                                    i.            Creates disturbance of any kind in OR around the examination hall.
+
+                                                                  ii.            Intimidates / Physically Assaults/ Misbehaves with the Superintendent / Invigilator / Assistant Superintendent and/or Examination Centre Staff / Fellow Students.
+
+                                                                iii.            Refuses to follow instructions of the Superintendent / Invigilator OR refuses to follow the instructions issued by the University in connection with the examinations.
+
+4.14.2.2.                    For candidate(s) appearing as an Overseas Student
+Misbehavior Regulations as prescribed in Section (4.14.2.1) above shall also be applicable to candidates appearing as overseas student(s).
+
+4.14.3.  Violation of Examinations Regulations
+The following behavior or actions shall be liable to Violation of Examinations Regulations and/or may lead to the cancellation of student’s paper.
+
+4.14.3.1.                    For Student(s) appearing in Designated Examinations Center(s)
+Any student who:
+
+                                                                          i.            Uses abusive or obscene language in the answer script.
+
+                                                                        ii.            Possesses any kind of weapon(s) in or around examination center.
+
+                                                                      iii.            Writes question(s)/any other thing on Exam Entrance Slip.
+
+                                                                      iv.            Restricts entry of other students into the examination hall.
+
+                                                                        v.            Resorts to a pen-down strike or instigates others to do so.
+
+                                                                      vi.            Stages a walk-out from the examination hall/room.
+
+                                                                    vii.            Brings eatables in the examination hall/room.
+
+4.14.3.2.                    For Candidate(s) appearing as an Overseas Student
+Any student who:
+
+                                                                          i.            Uses abusive OR obscene language in the answer script.
+
+                                                                        ii.            Goes offline during paper due to any reason.
+
+                                                                      iii.            Webcam view is not as prescribed.
+
+                                                                      iv.            Appears from within Pakistan using the overseas examination environment.
+
+                                                                        v.            Examination Hall/Room is not arranged as per prescribed instructions
+
+4.14.4.  Plagiarism
+                    i.            In case during evaluation/marking, copying from external source(s) is identified in NON-Proctored Examination (Such as Assignment/Report/Thesis, as per HEC guidelines for plagiarism:
+
+a)      An Unfair Means Case shall be registered against the student.
+
+b)      The entire paper shall be graded as ZERO (0).
+
+4.14.5.  Unfair Means Committee (UMC)
+                    i.            The Unfair Means Committee shall be constituted by the Rector.
+
+                  ii.            It shall comprise of senior teachers/officers of the University by giving representation to the Legal advisor of the University. The committee shall listen to the cases related to Unfair Means, Misbehavior and Violation of Examination Regulations referred by the Controller of Examinations and issues verdicts/decisions within 30 days.
+
+4.14.6.  Right to Appeal and Review of Appeal
+A student may appeal to the Rector against the verdict issued by the UMC on payment of prescribed fee within seven (07) days after the verdict notification of the UMC.
+
+ 
+
+                    i.            If the initial verdict is reversed, the fee will be refunded.
+
+                  ii.            In case the student is still not satisfied from the decision of the appeal and brings forth any new supporting evidence, he/she may lodge a review petition within seven days of the appeal notification date on payment of the prescribed fee.
+
+                iii.            The decision of the University shall be final.
+
+4.15.      Examinations for VU Employees
+ 
+
+                    i.            The Examinations of VU employees admitted in any Degree Program shall be conducted in the designated Examination Center(s).
+
+                  ii.            The schedule given by the Controller of Examinations shall be final.
+
+                iii.            The paper-setter(s) and paper-evaluator(s) shall be appointed from outside VU if required after due approval from the Rector.
+
+                iv.            Examination Regulations as prescribed in section (4.4) shall be applicable to VU employees.
+
+4.16.      Disbursement of share in Cost for Examination Facilities
+ 
+
+                    i.            The examination facility share shall be disbursed to PVCs who shall be designated as Examination Center in each examination by the Controller of Examinations.
+
+                  ii.            The examination facility share shall be disbursed to each PVC for regular examinations as well as for paid rescheduling cases, as prescribed in Appendix- ‘7 - D’
+
+                iii.            In case of any test conducted in any PVC, share shall be disbursed as approved by the Competent Authority.  
+
+4.17.      Viva Voce Examinations of Project / Internship
+ 
+
+                    i.            The Board of Examiners shall comprise of:
+
+·         HOD/In-Charge (or nominee)
+
+·         Research Supervisor(s)
+
+·         External Examiner
+
+                  ii.            The HOD of the respective department in consultation with his faculty staff will propose a list of examiners from the approved list.
+
+                iii.            The Dean of the faculty and/or Controller of Examination shall approve the list.
+
+                iv.            The Rector shall appoint one (01) external examiner for thesis evaluation to be notified by the Controller Examinations.
+
+                  v.            The Dean of the respective faculty shall appoint one internal member from the Department along with supervisor for the project evaluation of one student/group.
+
+4.18.      MS/M.Phil. Viva Voce Examinations
+4.18.1.                       Pre-requisites
+                                i.            HOD/Thesis Coordinator shall submit request for viva examinations before the commencement of End semester Examinations.
+
+                              ii.            The student must be enrolled in the current semester.
+
+                            iii.            Copy of approved synopsis shall be submitted in soft form.
+
+                             iv.            Copy of thesis to be evaluated shall be submitted in soft form.
+
+                               v.            Certificate of “Similarity Index” from ASRB shall be submitted.
+
+                             vi.            Suggest Panel of External Examiners from approved list.
+
+4.18.2.                       Conduct of Viva Voce Examinations
+                                i.            Approval of External Examiner from already selected panel of examiners. The Rector shall appoint one (01) external examiner for thesis evaluation to be notified by the Controller Examinations.
+
+                              ii.            The Controller of Examinations shall schedule the Viva voce examination.
+
+                            iii.            Complete proceeding of the viva session shall be recorded.
+
+                             iv.            A Board of Examiners consisting of Internal Examiner, External Examiner and Convener (HOD/In-charge or nominee) shall evaluate the Final Year Project in a Viva Voce (Oral Examination). The Board may decide one of the following:
+
+a.       Pass and award grade;
+
+b.      Pass (and award grade) with Minor Revision;
+
+c.       Defer with Major Revision;
+
+d.      Reject (Award “F” grade).
+
+4.18.3.                       Conduct of Practical Examinations
+The concerned teacher(s) shall conduct the Practical Examination.
+
+4.18.4.                       Post Conduct
+                                i.            Mark sheet must be filled by the following:
+
+a.       External Examiner
+
+b.      Supervisor
+
+c.       Dean/HOD/In-Charge or their nominee
+
+                              ii.            All mark sheets must be signed by the following:
+
+a.       Dean/HOD/In-Charge or their nominee
+
+b.      External Examiner
+
+c.       Supervisor
+
+d.      Representative from Examinations
+
+                            iii.            The said student must submit:
+
+a.       Three (03) copies of final version of Research Thesis in prescribed format within given deadline.
+
+b.      Soft copy of final Research Thesis
+
+
+ 
+
+5.    Result Regulations
+5.1.          Result Declaration
+                                            i.   The result of every semester shall be declared by the Controller of Examinations as per the result declaration date mentioned in the Academic Calendar.
+
+ 
+
+5.1.          Result Publication of Research Thesis/Project/Internships/ Trainings:
+                                                        i.            Award lists of MS/M.Phil. Viva voce examinations received before the result declaration date shall be published  
+
+ 
+
+                                                      ii.            The result of every semester shall be declared by the Controller of Examinations as per the result declaration date mentioned in the Academic Calendar.
+
+ 
+
+                                                    iii.            Results of all continuing Research Thesis/Projects/Internships/Trainings shall be submitted and shall be declared as In-Progress (IP) status.
+
+5.2.          Improvement of CGPA
+ 
+
+A student may opt for the improvement of CGPA before the issuance of Degree as per clause 6.4 and as per prescribed procedure.
+
+5.3.          Early Result Declaration
+                                            i.            Project/Research Thesis results of the students, whose residential requirements are not yet completed, may be declared Thirty (30) days earlier than the result declaration date as announced in Academic Calendar upon payment of prescribed fee.
+
+                                          ii.            Project/Research Thesis results of the students whose study duration satisfies the residential requirements of the study program, may be declared, and published (subject to the completion of all pre-requisites).
+
+5.4.          Revision of Result after Declaration
+The Controller of Examinations, after obtaining due authorization from the Rector, shall quash and/or revise the result of a candidate wholly or partially after it has been declared, in case:
+
+                                            i.            The student has been disqualified on account of using unfair means in the examinations.
+
+                                          ii.            A mistake is found in the student’s result.
+
+                                        iii.            A data corruption problem is detected.
+
+5.5.          Re-Checking of Paper(s)
+                                               i.         A student may request for paper rechecking within five working days after the declaration of the result on payment of the prescribed fee per paper.
+
+                                             ii.         Re-assessment of paper shall not be permissible in any circumstances
+
+                                           iii.         Whereas the re-checking does not mean re-assessment/re-evaluation/re-marking of the paper. The Controller of Examinations shall constitute a panel/committee for re-checking of paper comprising of at least three members (Concerned HOD/In-Charge, Subject Expert, One Senior Officer from Examinations as Secretary)
+
+                                           iv.         The panel/committee shall perform/confirm following steps:
+
+a)      No portion of any answer has been left un-marked.
+
+b)      The total of various parts of a question has been correctly made at the end of each question
+
+c)      All totals have been correctly brought forward on the title page of the paper.
+
+d)      There is no computational mistake in the grand total.
+
+e)      The handwriting of the student shall be tallied with the questions/answer book (In case of offline paper)
+
+f)       Submit recommendations regarding the evaluation quality.
+
+ 
+
+                                             v.         The student may check his/her paper physically at the provided schedule by office of the controller of examinations.
+
+a.       Students must follow the provided schedule.
+
+b.      Mobile phones and other electronic devices are strictly prohibited.
+
+c.       No other person is allowed with the student within the premises of rechecking center.
+
+d.       Only one rechecking chance will be provided.
+
+e.       Rechecking schedule provided by the office of the controller shall be final.
+
+f.        University has right to update/change the schedule.
+
+ 
+
+                                           vi.         The marks of a student could increase/decrease in light of (iv) (c)/(d) above; result shall be corrected/updated according to undertaking (as prescribed in Appendix 7-E) received from the department.
+
+                                         vii.         In case the re-checking requests result in an increase of marks, the Rechecking Fee will be refunded.
+
+                                       viii.         The decision of the University shall be final.
+
+5.6.          Scaling of Marks
+                    i.            In case of out of syllabus question or any other issue found in the question statement, then after due verification from concerned HOD/In-charge, Controller of Examinations may decide one of the following options:
+
+a)            Complete Marks shall be awarded for out of syllabus / Incomplete Question(s).
+
+b)            Average marks may be awarded to the student in a problematic descriptive question(s) (wherein affected portion weightage is less than 20% of the paper).
+
+c)            Student may be given another chance as a special case to take the Examination in a subject/course and no examination fee shall be charged from the student.
+
+                  ii.            In the case of re-examination highest marks out of both attempts shall be considered in result calculation.
+
+5.7.          Award of Merit Positions
+                                            i.            The Controller of Examinations shall publish a Merit Positions List for every graduating semester and for the degree program on the basis of the overall CGPA obtained by students.
+
+                                          ii.            Top three students shall qualify for the "Award of Merit position" if they satisfy the following conditions:
+
+a)         Have earned a CGPA of 3.50 or above out of a maximum of 4.
+
+b)         Have completed their studies within the prescribed minimum period for the program without any break in their studies.
+
+c)         Have availed the semester freeze option.
+
+d)         Have not been convicted in any Unfair Means/ Violation of Examinations Regulations / Disciplinary Case
+
+e)         Have no Repeated/Failed/Exempted/Transferred/Converted course(s).
+
+                                        iii.            For the determination of merit position, CGPA will be calculated up to two decimals only.
+
+                                        iv.            In case of a tie in determination of merit, it shall be resolved on the following basis:
+
+a)         Student with a higher percentage (up to two decimals) shall be considered superior.
+
+b)         Any remaining tie will be resolved on the basis of date of birth, with the younger being given precedence.
+
+                                          v.            Merit Position shall not be awarded in case of degree program conversion.
+
+                                        vi.            No Academic distinction for the student of ADP (2-year) program.
+
+                                      vii.            No Academic distinction for the student of BA/B.Sc. (2-year) program.
+
+                                    viii.            No Academic distinction for the student of MS/M.Phil (2-year) program.
+
+                                        ix.            The Merit List shall be liable to change if any discrepancy is found within Ten (10) days after the announcement of Merit Positions List.
+
+5.8.          Award of Gold Medals
+Gold Medals shall be awarded each year during the convocation, to outstanding candidates who secured highest CGPA and fulfilling all the stipulations of the regulation. Graduates of every degree program shall be considered for the award of Gold Medal as per following criteria:
+
+ 
+
+                                            i.            A Gold medal is awarded to the student who secures the highest CGPA subject to a minimum CGPA of 3.50, in each of the following degree programs:
+
+a)            All 4-year Bachelor of Science programs.
+
+b)            All 2-year Master’s programs equivalent to 16-years of education.
+
+
+ 
+
+6.       Documents Issuance/Distribution/Verification
+6.1.             General Regulations
+ 
+
+                    i.            Potential graduates may avail option of course(s)/CGPA improvement as per prescribed course selection rules.
+
+                  ii.            Potential graduates shall be marked pass-out after the announcement of semester result subject to successful completion of requirements as prescribed in Appendix ‘7 - F’ of the study program.
+
+                iii.            Transcript of Record shall be issued to a successful student subject to completion of requirements as prescribed in Appendix ‘7 - G’
+
+                iv.            The Controller of Examinations may cancel/recall any issued document i.e., Transcript/Degree/Diploma in case a mistake is found in the student’s record or later found guilty in any of the scenarios as prescribed in Appendix ‘7 - H’
+
+                  v.            Students may authorize someone to collect the documents on their behalf as prescribed in Appendix ‘7 - I’
+
+                vi.            A prescribed fine shall be imposed in case student fails to collect the Transcript of Record / Degree/ Diploma for considerable amount of time.
+
+6.2.                Issuance of Transcript of Record
+ 
+
+                    i.            A first copy of Transcript of Record shall be issued free of cost.
+
+                  ii.            A revised Transcript of Record shall be issued in approved format as per prescribed process and fee after the submission of previous Transcript.
+
+                iii.            Duplicate Transcript of Record shall be issued in case the original copy has been lost / mutilated / damaged; upon request after fulfilling process as prescribed in Appendix ‘7 - J’ 
+
+                iv.            Additional copy(s) shall be issued upon submission of prescribed fee per copy.
+
+6.3.             Issuance of Partial Transcript
+ 
+
+                    i.            A Partial Transcript shall be issued upon request after payment of the prescribed fee per copy and subject to clearance of all outstanding dues.
+
+6.4.                Criteria for Award of Degree
+ 
+
+                    i.            The student has successfully completed/passed total credit hours/courses within the prescribed duration of the degree program and clearance of all outstanding dues.
+
+                  ii.            The student has scored a final Cumulative Grade Point Average of not less than 2.00 out of 4.
+
+                iii.            Degree awarding date for SPRING semester shall be first working Monday of the month “January”.
+
+                iv.            Degree awarding date for FALL semester shall be first working Monday of the month “July”.
+
+                  v.            Degree shall be awarded free of cost (FOC) after the due date.
+
+                vi.            A Degree may be issued before the due date, on request and upon payment of the prescribed “Urgent Degree Fee”.
+
+              vii.            Duplicate Degree shall be issued upon student’s request in case the original degree has been lost/mutilated/damaged, only after fulfilling the process as prescribed in Appendix ‘7 - J’.
+
+            viii.            A revised Degree shall be issued on an approved format as per prescribed process and upon payment of prescribed fee.
+
+                ix.            In case, if there will be misprinting/incorrect credential by the University, then No fee shall be charged without fixing the duplicate word.
+
+                  x.            In all other cases, the word “DUPLICATE” shall be printed on re-issued degrees. 
+
+ 
+
+6.5.                Issuance of Diploma
+                    i.            A Diploma shall be issued to a student subject to successful completion of all prescribed requirements of the study program and clearance of all outstanding dues.
+
+6.6.                Issuance of Professional Certificate
+ 
+
+                  ii.            A Professional Certificate shall be issued to a student subject to successful completion of prescribed requirements and clearance of all outstanding dues.
+
+                iii.            A student having any qualified Non-Credit course may request for issuance of certificate(s) on payment of prescribed fee.
+
+6.7.             Issuance of Specialization Certificate
+ 
+
+                    i.            A Specialization Certificate shall be issued to a student subject to successful completion of prescribed requirements and clearance of all outstanding dues.
+
+6.8.             Recalling Dispatched Terminal Documents
+ 
+
+                    i.            A Student shall collect his/her Terminal documents within prescribed period i.e., Thirty (30) days from the date of dispatch. After that, a prescribed fine shall be imposed.
+
+                  ii.            After the prescribed period, Terminal documents shall be recalled from the respective campus(es) to Examinations Department
+
+                iii.            A Student shall submit the request again for re-dispatch after submission of prescribed fine. 
+
+6.9.          Verification of Document(s)
+ 
+
+                    i.            An organization/individual/student may request to the University’s Examination department to get verify the Transcript of Record/Degree of its employees/candidates upon payment of prescribed Fee
+
+                  ii.            The verification fee can be sent through Demand Draft in favor of Virtual University of Pakistan.
+
+                iii.            A photocopy of the document to be verified shall be submitted to Department of Examinations along with covering letter of organization and a demand draft.
+
+                iv.            Verified documents will be dispatched to the applicant’s requested postal address.
+
+                  v.            In case the verification is requested via email, no fee will be charged, and the verification will be provided in electronic form only.
+
+7.       Appendices
+7.1.          Appendix 7- A (SOPs’ for selection of Invigilation Staff)
+ 
+
+7.1.1.            Stage 1: Application Submission
+
+Applications shall be invited through VU Website for creating a pool of Superintendents and Assistant Superintendents.  VU employees may also apply in the same way and they will be paid as per prescribed Superintendent Remuneration Rules.
+
+               Applicant shall submit attested hard copies of the following documents:
+
+a)      Application form
+
+b)      Academic Certificates / Degrees
+
+c)      CNIC/Passport
+
+d)      Experience Certificate (if any)
+
+e)      NOC from their department
+
+7.1.2.   Stage 1: Initial Screening
+
+i.                     City wise list will be prepared for all applicants.
+
+ii.                   Applications shall first be evaluated based on
+
+a)      Academic Qualification
+
+b)      Age
+
+c)       Experience
+
+After the completion of this stage, the successful applicants will be informed about the schedule of next phase through email.
+
+7.1.3.         Stage 2: Documents Validation & Preliminary Interview Stage
+
+i.                     The following committee will evaluate all applications. The Rector can change the composition in special case.
+
+                                                     i.         Controller of Examinations                                            Convener
+
+                                                   ii.         A Rector’s nominee                                                       Member
+
+                                                 iii.         An officer of E-IV or above from Academics               Member                     
+
+nominated by the Rector
+
+                                                 iv.         An officer of E-IV or above from Registrar’s Office   Member
+
+                                                   v.         An officer of E-IV or above from Directorate of ICT   Member
+
+                                                 vi.         Addl. Controller of Examinations                                  Member/Secretary
+
+ii.                   All candidates must appear in an Aptitude Test.
+
+iii.                 Preliminary Interview shall be held for candidates who qualify Aptitude Test.
+
+iv.                 Candidates, who qualify Preliminary Interview phase, shall be asked to visit the nearby VU Campus and validate their academic documents and CNIC (both original and attested copies) from the Campus Manager as per given schedule.
+
+v.                   Campus Manager, after due evaluation, shall sign and stamp the copies of documents and undertaking.
+
+vi.                 Campus Manager shall submit the verified copies of documents and undertaking to the Examinations Department. After the completion of this stage, the successful applicants will be informed about the schedule of next phase through email.
+
+7.1.4.         Stage 3: Face-to-Face Evaluation
+
+i.                     Shortlisted candidates will be intimated through email/regular mail.
+
+ii.                   Every candidate shall be evaluated as per following areas:
+
+a)            Knowledge about VU Examinations Regulations
+
+b)            ICT skills
+
+c)            Personality Traits
+
+d)            Communication skills
+
+e)            Administrative skills/ Person Management
+
+f)             Job Knowledge
+
+iii.                 After the completion of this stage, the successful applicants will be informed about the next phase.
+
+7.1.5.         Stage 4: On-Spot Training
+
+i.                     Presentation of Conduct of Examinations will be given.
+
+ii.                   Examinations Regulations / SOPs’ will be discussed.
+
+iii.                 Demo session will be conducted
+
+iv.                 Candidate shall be asked to perform as Superintendent in Demo Session
+
+v.                   Question Answer session.
+
+Further, the Exam Superintendent shall send daily conduct report. The format of the report is as mentioned below.
+
+7.3.                                     Appendix 7- C (Superintendent Remuneration)
+i.                     The remuneration shall be disbursed on per shift basis.
+
+ii.                   There shall be two shifts in a day.
+
+iii.                 Normally, first three sessions in Mid Examinations and First two sessions in End Examinations shall be considered as First Shift and rest sessions in each examination shall be considered as second shift. 
+
+iv.                 The remuneration for the Superintendent per shift is Rs 1200/-
+
+v.                   The remuneration for Assistant Superintendent per shift is Rs 600/-
+
+7.4.                                     Appendix 7- D (Exam Share Disbursement)
+ 
+
+The Executive Council of Virtual University of Pakistan in its 22nd meeting held on January 31st, 2019 approved the following exam share rates.
+
+ 
+
+Exam Type
+
+Standard Exam Share (PKR)
+
+Rescheduling Exam Share (PKR)
+
+Mid Semester
+
+50 / paper, with minimum Rs. 15, 000 /- examination period.
+
+Rs. 100 / paper
+
+End Semester
+
+75 / paper, with minimum Rs. 15, 000 /- examination period.
+
+Rs. 150 / paper
+
+ 
+ 
+
+
+ 
+
+7.5.          Appendix 7- E (Undertaking for Rechecking of Papers)
+Undertaking
+
+ 
+
+Semester: Fall / Spring     Year: 20___                 Exam Type: Mid / End            Date: ______________
+
+ 
+
+I, Mr. /Ms. ___________, (AP/Lecturer/ Tutor), Department of _______________________do hereby solemnly affirm and state as hereunder that:
+
+The paper Course Code of the student ID_________ has been reviewed by me under rules of paper rechecking. After thorough review findings are as follows:
+
+ 
+
+€        Students’ paper has not been re-marked/re-assessed.
+
+€        Mistake was found in counting of total/grand total marks.
+
+€        Unmarked question / section of question was found.
+
+ 
+
+Therefore, recommendation(s) to update the marks of the student as follows:
+
+Question ID
+
+Remarks
+
+Initial Marks
+
+Recommended Marks
+
+Total Initial Marks
+
+Total Marks after Updating
+Dean: __________
+
+Signature: _______________
+
+
+Paper Reviewer Name: __________
+
+Signature: _____________________
+
+HOD Name: __________
+
+Signature: _____________________
+
+
+7.6.          Appendix 7- F (Requirements for Pass out)
+i.         No Result Lock (RL)/ Unfair Means Case
+
+ii.       Not applied for paper(s) rechecking
+
+iii.     Did not opt for improvement of course(s)/CGPA
+
+iv.     Entry test is qualified (for MS/M.Phil. students only)
+
+ 
+
+7.7.          Appendix 7- G (Requirements for Terminal Documents Issuance)
+i.            Clearance of outstanding dues
+
+ii.          Students’ credentials (Name, Father Name, CNIC, Date of Birth, Gender, Photo & Previous Academic History etc.) are verified
+
+iii.        For MS/M.Phil. students, four (4) hard copies of thesis in prescribed format must be submitted
+
+iv.        For MS/M.Phil. Students, migration certificate from previous academic institute must be submitted to concern office of Registrar.
+
+7.8.          Appendix 7- H (Cancellation of Documents)
+i.            Forgery of records/documents
+
+ii.          Bogus academic or citizen testimonials
+
+iii.        Disciplinary case
+
+iv.        Unfair Means / Violation of Examinations Regulations Case
+
+7.9.          Appendix 7- I
+i.            Student will email from VU email account wherein he/she will mention the Name and CNIC number of the nominee.
+
+ii.          Nominee will have to bring the original and copy of the CNIC for collection of document(s).
+
+iii.        In case of change in nominee, student will be required to redo the (i)
+
+7.10.      Appendix 7- J
+i.            Submit original Police Report
+
+ii.          Submit original News Paper Cutting.
+
+iii.        Submit prescribed fee.
+
+ 
+
+-----------------------------End of Document--------------------------------
