@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@google/genai": "^2.28.0",
     "@google/generative-ai": "^0.24.1",
     "beautifulsoup4": "^0.0.1-security",
     "dotenv": "^18.0.6",

@@ -1,4 +1,4 @@
-1. Q: How many times a year does Virtual University of Pakistan offer admissions?
+1. Q:
    Expected: Virtual University of Pakistan offers admission twice in an academic year namely spring in the month of February/March and fall in the month of August/September each year.
    File: data/support/admissions_admissionprocedure.txt
 
@@ -16,4 +16,4 @@
 
 5. Q: What is the admissions-related contact number for Virtual University of Pakistan?
    Expected: 1288 (For Admissions Related Queries)
-   File: data/support/aboutus_programsoffered_aspx.txt
+   File: data/support/aboutus_programsoffered_aspx.txt How many times a year does Virtual University of Pakistan offer admissions?
