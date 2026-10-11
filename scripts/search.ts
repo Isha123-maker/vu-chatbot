@@ -17,7 +17,7 @@ function cosine(a: number[], b: number[]): number {
   return dot / (Math.sqrt(na) * Math.sqrt(nb));
 }
 
-async function search(question: string, topK = 3) {
+async function search(question: string, topK = 5) {
   const res = await ai.models.embedContent({
     model: "gemini-embedding-001", // must be the SAME model used for the chunks
     contents: question,

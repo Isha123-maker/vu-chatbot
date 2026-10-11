@@ -6,27 +6,44 @@ export async function POST(req: NextRequest) {
   try {
     const { message, history } = await req.json();
 
-    // 1. find the best chunks for this question
-    const hits = await retrieve(message);
+    if (typeof message !== "string" || !message.trim()) {
+      return NextResponse.json({ error: "Please type a question first." }, { status: 400 });
+    }
+    if (message.length > 1000) {
+      return NextResponse.json(
+        { error: "Your question is too long. Please keep it under 1000 characters." },
+        { status: 400 }
+      );
+    }
 
-    // 2. wrap the question and the chunks in our strict prompt
-    const prompt = buildRagPrompt(message, hits);
+    const hits = await retrieve(message.trim());
+    const prompt = buildRagPrompt(message.trim(), hits);
 
-    const chat = model.startChat({
-      history: history || [],
-    });
-
+    const chat = model.startChat({ history: history || [] });
     const result = await chat.sendMessage(prompt);
-    const responseText = result.response.text();
 
     return NextResponse.json({
-      reply: responseText,
+      reply: result.response.text(),
       sources: Array.from(new Set(hits.map((h) => h.chunk.source))),
     });
   } catch (error) {
     console.error("Chat API error:", error);
+    const text = error instanceof Error ? error.message : "";
+
+    if (text.includes("429") || text.includes("RESOURCE_EXHAUSTED") || text.toLowerCase().includes("quota")) {
+      return NextResponse.json(
+        { error: "The assistant is busy right now. Please wait a minute and try again." },
+        { status: 429 }
+      );
+    }
+    if (text.includes("fetch failed") || text.toLowerCase().includes("timeout")) {
+      return NextResponse.json(
+        { error: "Could not reach the AI service. Please check your internet connection and try again." },
+        { status: 503 }
+      );
+    }
     return NextResponse.json(
-      { error: "Something went wrong talking to the assistant." },
+      { error: "Something went wrong talking to the assistant. Please try again." },
       { status: 500 }
     );
   }
