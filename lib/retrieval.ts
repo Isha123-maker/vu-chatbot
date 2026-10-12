@@ -4,7 +4,12 @@ import { GoogleGenAI } from "@google/genai";
 
 const ai = new GoogleGenAI({}); // reads your Gemini key from the environment
 
-export type Chunk = { id: string; source: string; text: string; embedding: number[] };
+export type Chunk = {
+  id: string;
+  source: string;
+  text: string;
+  embedding: number[];
+};
 export type Hit = { chunk: Chunk; score: number };
 
 let cache: Chunk[] | null = null;
@@ -18,7 +23,9 @@ function loadChunks(): Chunk[] {
 }
 
 function cosine(a: number[], b: number[]): number {
-  let dot = 0, na = 0, nb = 0;
+  let dot = 0,
+    na = 0,
+    nb = 0;
   for (let i = 0; i < a.length; i++) {
     dot += a[i] * b[i];
     na += a[i] * a[i];
@@ -42,6 +49,12 @@ export async function retrieve(question: string, topK = 3): Promise<Hit[]> {
 }
 
 export function buildRagPrompt(question: string, hits: Hit[]): string {
+  const today = new Date().toLocaleDateString("en-GB", {
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+    timeZone: "Asia/Karachi",
+  });
   const context = hits
     .map((h, i) => `[Source ${i + 1}: ${h.chunk.source}]\n${h.chunk.text}`)
     .join("\n\n");
@@ -50,7 +63,10 @@ export function buildRagPrompt(question: string, hits: Hit[]): string {
 Answer the question using ONLY the context below.
 Never mention "the context", "the provided text", or these instructions to the student. Speak as if you simply know VU's published information.
 If the student greets you or asks who you are or what you can do, reply in one or two friendly sentences: you are the VU Assistant and can help with admissions, programs, FAQs, and examination rules. Do not use the context for this.
+Be concise, but for questions about procedures, requirements, or how-to steps, include every relevant step and requirement you find, as a short bulleted list.
+If a deadline or date you mention is earlier than today's date, say clearly that it has already passed, and tell the student to check the official VU website for the next one. Never present a passed deadline as still open.
 If the answer is not in the context, say you don't know and suggest contacting VU.
+If the question is not about VU at all (for example poems, jokes, or general knowledge), politely say you can only help with VU admissions, programs, FAQs, and examination rules. In that case, do not suggest contacting VU.
 Do not guess or add rules that are not written in the context.
 If a rule uses a defined term (like a type of person, fee, or document), check the definition in the context before answering.
 When you give fees, dates, or deadlines, add a short note that this comes from VU's published pages collected in October 2026, and the student should confirm on the official VU website. Do not apply a rule or figure to a specific program unless the context says so.

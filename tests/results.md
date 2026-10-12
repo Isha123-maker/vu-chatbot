@@ -8,6 +8,7 @@ Q2(A VU student misses an exam due to the death of a direct relative, has alread
 5. Q: uncle exam question — full RAG answer — score 2/2. Noticed uncle not Direct Relative, cited sections.
 6. Retrieval will only use the latest message. If a student asks “what about the fee?” as a follow-up, the search won’t know what “the fee” refers to. That’s a known weakness of basic RAG
 7. Migrating Phase 1 from gemini.ts (@google/generative-ai) to (@google/genai) would be a side-quest
+8. Deadline dates can be obsolete.
 
 Q3"What is the fee for the BS Software Engineering program?"
 
