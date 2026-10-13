@@ -13,6 +13,7 @@
     "@google/generative-ai": "^0.24.1",
     "beautifulsoup4": "^0.0.1-security",
     "dotenv": "^18.0.6",
+    "lucide-react": "^1.56.0",
     "next": "16.4.0",
     "react": "19.3.0",
     "react-dom": "19.3.0",
