@@ -36,29 +36,40 @@ export async function POST(req: NextRequest) {
         { status: 400 },
       );
     }
-    
+
+    // Words that usually mean "I'm continuing the last topic"
+    const FOLLOW_UP =
+      /\b(it|its|it's|that|this|those|these|they|them|their|there|same)\b|^(and|also|what about|how about)\b/i;
+
+    const trimmed = message.trim();
+
+    const isSmallTalk =
+      /^(hi+|hello|hey|salam|assalam[\w-]*|who are you|what can you do)\b/i.test(
+        trimmed,
+      );
+
+    const wordCount = trimmed.split(/\s+/).length;
+    const looksLikeFollowUp =
+      !isSmallTalk &&
+      ((wordCount <= 6 && FOLLOW_UP.test(trimmed)) || wordCount <= 2);
+
     const lastUser = [...(history || [])]
       .reverse()
       .find((m: { role: string }) => m.role === "user") as
       | { parts?: { text: string }[] }
       | undefined;
 
-    const isShort = message.trim().split(/\s+/).length <= 6;
     const searchText =
-      isShort && lastUser?.parts?.[0]?.text
-        ? `${lastUser.parts[0].text} ${message.trim()}`
-        : message.trim();
+      looksLikeFollowUp && lastUser?.parts?.[0]?.text
+        ? `${lastUser.parts[0].text} ${trimmed}`
+        : trimmed;
 
     const hits = await retrieve(searchText);
-    const prompt = buildRagPrompt(message.trim(), hits);
+    const prompt = buildRagPrompt(trimmed, hits);
+
 
     const chat = model.startChat({ history: history || [] });
     const result = await chat.sendMessage(prompt);
-
-    const isSmallTalk =
-      /^(hi+|hello|hey|salam|assalam[\w-]*|who are you|what can you do)\b/i.test(
-        message.trim(),
-      );
 
     return NextResponse.json({
       reply: result.response.text(),
@@ -67,11 +78,6 @@ export async function POST(req: NextRequest) {
         : Array.from(new Set(hits.map((h) => h.chunk.source))).map(
             getSourceInfo,
           ),
-    });
-
-    return NextResponse.json({
-      reply: result.response.text(),
-      sources: Array.from(new Set(hits.map((h) => h.chunk.source))),
     });
   } catch (error) {
     console.error("Chat API error:", error);
