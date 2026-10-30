@@ -1,47 +1,38 @@
 # VU Assistant: Test Results
 
-## Run info
-- **Run date:** 25-10-2026
-- **Git commit:** (add hash with `git rev-parse --short HEAD`)
+## Latest run: partial recheck
+
+- **Run date:** 2026-10-30
 - **Chat model:** gemini-2.5-flash
 - **Embedding model:** gemini-embedding-001
 - **topK:** 3
-- **Prompt version / date last changed:** 25-10-2026
-- **Ran in batches because of 429 quota?** Yes, in batches of 4 questions.
+- **Result:** Questions 1–12 were attempted. Questions 7–8 received temporary provider 503 errors; the daily Gemini generation quota was exhausted during Q13. Questions 13–20 therefore remain untested in this run. Do not treat this as a complete regression pass.
+- **Prompt change after run:** Added an instruction to use relevant context even when the source wording differs. This change still needs a fresh model evaluation.
+
+| # | Outcome | Source behavior | Notes |
+|---|---|---|---|
+| 1 | Pass | Sources shown | Program list answered. |
+| 2 | Pass | Sources shown | Rescheduling conditions answered. |
+| 3 | Pass | Sources shown | BS fee answered as Rs. 750 per credit hour. |
+| 4 | Pass | Sources hidden | Hostel question correctly admitted no answer. |
+| 5 | Pass | Sources shown | Admissions contact answered. |
+| 6 | Pass | Sources shown | Midterm and final explained. |
+| 7 | Not scored | N/A | Provider returned 503 (high demand). |
+| 8 | Not scored | N/A | Provider returned 503 (high demand). |
+| 9 | Fail | Sources hidden | Model said it did not know, despite the retrieved handbook text containing a 2.00/4.00 minimum CGPA and other degree criteria. Prompt was strengthened afterward; rerun required. |
+| 10 | Pass after expectation correction | Sources shown | Listed CS, Data Science, and IT. The question asks for programs other than Software Engineering, so that program is not required in the expected answer. |
+| 11 | Pass | Sources shown | BS fee and MS follow-up fee answered. |
+| 12 | Pass | Sources shown | Fall 2026 deadline correctly treated as passed on the run date. |
+| 13–20 | Not run | N/A | Gemini daily generation quota was exhausted at Q13. |
+
+This run found one unresolved answer-quality issue (Q9) and one incorrect test expectation (Q10, now corrected in `tests/questions.md`). The full 20-question set must be rerun after the quota resets to confirm the prompt change and complete the evaluation.
 
 ## Scoring key
-- **Answer score:** 2 = correct and complete, 1 = partly right or missing a key detail, 0 = wrong, invented, or false "I don't know"
-- **Retrieval rank:** position of the chunk that contains the answer in the top 3 (1, 2, 3, or miss)
-- **Sources OK?** Were the sources list shown/hidden correctly (hidden for "I don't know", off-topic, and small talk)?
 
-## Summary table
-
-| #  | Type              | Retrieval rank | Top score | Sources OK? | Answer score (0-2) | Notes |
-|----|-------------------|----------------|-----------|-------------|--------------------|-------|
-| 1  | fact              | 1              | -         | Yes         | 2                  |       |
-| 2  | multi             | 1              | -         | Yes         | 2                  |       |
-| 3  | fact              | 2              | -         | Yes         | 2                  |       |
-| 4  | no-answer         | 1              | -         | Yes (hidden)| 2                  |       |
-| 5  | fact              | 2              | -         | Yes         | 1                  |       |
-| 6  | fact              | 1              | -         | Yes         | 2                  |       |
-| 7  | edge              | 1              | -         | Yes         | 2                  |       |
-| 8  | multi             | 2              | -         | Yes         | 1                  |       |
-| 9  | fact              | 1 (verify)     | -         | No (shown on a "don't know")  | 0   | Bot said it doesn't know. To be solved later. |
-| 10 | fact              | 1              | -         | Yes         | 2                  |       |
-| 11 | follow-up         | 1              | -         | Yes         | 2                  |       |
-| 12 | edge (date)       | 1              | -         | Yes         | 2                  |       |
-| 13 | off-topic         | 1              | -         | Yes (hidden)| 2                  |       |
-| 14 | edge (Roman Urdu) | 1              | -         | Yes         | 2                  |       |
-| 15 | no-answer         | 1              | -         | Yes (hidden)| 2                  |       |
-| 16 | multi             | 1              | -         | Yes         | 1                  |       |
-| 17 | edge              | 1              | -         | Yes         | 2                  |       |
-| 18 | multi             | 1              | -         | Yes         | 2                  |       |
-| 19 | multi             | 1              | -         | Yes         | 2                  |       |
-| 20 | multi             | 1              | -         | Yes         | 2                  |       |
-
-| Q# | Failing layer | Planned action | Done? |
-|----|---------------|----------------|-------|
-| 9  | TBD (rank 1 but the bot said "don't know", so check the chunk text and the prompt) | Solve later | No |
+- **Pass:** response met the expected answer for the case.
+- **Fail:** response was wrong or falsely said the answer was unavailable.
+- **Not scored:** provider error or case not run; this is not an application pass or failure.
+- **Sources hidden:** required for no-answer and off-topic cases.
 
 ## Known weak spots
 1. Direct relative is defined.

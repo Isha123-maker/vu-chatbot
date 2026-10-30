@@ -9,6 +9,7 @@ import { checkChatRateLimit } from "@/lib/chat-rate-limit";
 const MAX_BODY_BYTES = 16 * 1024;
 const MAX_HISTORY_MESSAGES = 10;
 const MAX_HISTORY_CHARS = 10_000;
+const NO_ANSWER_MARKER = "[[VU_NO_ANSWER]]";
 
 type ChatHistoryMessage = {
   role: "user" | "model";
@@ -210,10 +211,19 @@ export async function POST(req: NextRequest) {
 
     const chat = model.startChat({ history });
     const result = await chat.sendMessage(prompt);
+    const rawReply = result.response.text().trim();
+    const modelFlaggedNoAnswer = rawReply.startsWith(NO_ANSWER_MARKER);
+    const reply = rawReply.replace(/^\[\[VU_NO_ANSWER\]\]\s*/i, "");
+    const shouldHideSources =
+      isSmallTalk ||
+      modelFlaggedNoAnswer ||
+      /i (?:don't|do not) know|i (?:couldn't|could not) find|can only help with vu/i.test(
+        reply,
+      );
 
     return NextResponse.json({
-      reply: result.response.text(),
-      sources: isSmallTalk
+      reply,
+      sources: shouldHideSources
         ? []
         : Array.from(new Set(hits.map((h) => h.chunk.source))).map(
             getSourceInfo,

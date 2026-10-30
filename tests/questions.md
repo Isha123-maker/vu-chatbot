@@ -62,7 +62,7 @@
 
 **10. Q:** I'm thinking about doing BS Software Engineering. What other BS programs does VU offer in the CS and IT faculty? *(fact)*
 
-**Expected:** Computer Science, Data Science, Information Technology, and Software Engineering (four-year BS).
+**Expected:** Computer Science, Data Science, and Information Technology (four-year BS). Software Engineering is the program the student is already considering, so it should not be repeated as an "other" program.
 
 **File:** `data/academics/studyscheme_studyscheme.txt`
 
