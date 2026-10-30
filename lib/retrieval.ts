@@ -49,12 +49,6 @@ export async function retrieve(question: string, topK = 3): Promise<Hit[]> {
 }
 
 export function buildRagPrompt(question: string, hits: Hit[]): string {
-  const today = new Date().toLocaleDateString("en-GB", {
-    day: "numeric",
-    month: "long",
-    year: "numeric",
-    timeZone: "Asia/Karachi",
-  });
   const context = hits
     .map((h, i) => `[Source ${i + 1}: ${h.chunk.source}]\n${h.chunk.text}`)
     .join("\n\n");

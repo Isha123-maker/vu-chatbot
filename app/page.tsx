@@ -87,7 +87,7 @@ export default function Home() {
         },
         body: JSON.stringify({
           message: text,
-          history: previousMessages.map(({ role, parts }) => ({
+          history: previousMessages.slice(-10).map(({ role, parts }) => ({
             role,
             parts,
           })),
