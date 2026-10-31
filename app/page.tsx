@@ -471,7 +471,7 @@ export default function Home() {
         </section>
 
         <footer className="py-5 text-center text-xs leading-5 text-muted">
-          Made for VU students by Isha Noor.
+          Made for VU students by Noor.
           <span className="mx-2">·</span>
           Always verify important information with official VU sources.
         </footer>
