@@ -14,6 +14,12 @@ VU Assistant is a student helpdesk chatbot for Virtual University of Pakistan. I
 
 The `data/` directory includes VU handbook and reference text used by the chatbot. Before redistributing this repository, review the source material and confirm you have permission to share it.
 
+## Demo
+🔗 **Live app:** https://vu-chatbot-ten.vercel.app
+▶️ [Watch the 50-second demo](https://youtu.be/06jbSpUZDxQ)
+
+> Unofficial student project. Not affiliated with Virtual University. Please verify important dates, fees and deadlines on the official VU website.
+
 ## What it does
 
 - Lets students ask questions in a chat interface and ask follow-up questions.
